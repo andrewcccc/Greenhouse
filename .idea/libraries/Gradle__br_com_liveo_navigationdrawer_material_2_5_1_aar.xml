@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.liveo:navigationdrawer-material:2.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f4614b45678c9833bf796a5404e255e/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f4614b45678c9833bf796a5404e255e/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f4614b45678c9833bf796a5404e255e/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16bb35da6a38f2ecf7e300aa4c86355e/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16bb35da6a38f2ecf7e300aa4c86355e/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/16bb35da6a38f2ecf7e300aa4c86355e/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55915c3e044025a308610f8f699b16dd/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55915c3e044025a308610f8f699b16dd/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/55915c3e044025a308610f8f699b16dd/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c62446b6490d19bab8147842df2eb47/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c62446b6490d19bab8147842df2eb47/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6c62446b6490d19bab8147842df2eb47/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bf6d00b708d2ef2352f0a347c8194a4/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bf6d00b708d2ef2352f0a347c8194a4/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9bf6d00b708d2ef2352f0a347c8194a4/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d46568b6ecaa36296386f3403c6196/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d46568b6ecaa36296386f3403c6196/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/58d46568b6ecaa36296386f3403c6196/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25248511101cd5216674d6e00e0a9471/jetified-navigationdrawer-material-2.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25248511101cd5216674d6e00e0a9471/jetified-navigationdrawer-material-2.5.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/25248511101cd5216674d6e00e0a9471/jetified-navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.liveo/navigationdrawer-material/2.5.1/36cf976474e5ffa0b1aff5c91ad999485fa0ea48/navigationdrawer-material-2.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.liveo/navigationdrawer-material/2.5.1/2f95b2c52cfb29a1642da5cd4a028913d6307c2f/navigationdrawer-material-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

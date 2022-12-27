@@ -1,0 +1,43 @@
+com/example/greenhouse/ui/mushroom/ApiClient.java
+ com.example.greenhouse.ui.mushroom.ApiClient
+com/example/greenhouse/ui/slideshow/SlideshowFragment.java
+ com.example.greenhouse.ui.slideshow.SlideshowFragment
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$1
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$2
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$Apii
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$Details_2
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$Image
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$ListViewAdapter
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$MyAPIService
+ com.example.greenhouse.ui.slideshow.SlideshowFragment$RetrofitClientInstance
+com/example/greenhouse/ui/mushroom/Chart.java
+ com.example.greenhouse.ui.mushroom.Chart
+com/example/greenhouse/ui/gallery/GalleryFragment.java
+ com.example.greenhouse.ui.gallery.GalleryFragment
+ com.example.greenhouse.ui.gallery.GalleryFragment$1
+com/example/greenhouse/ui/slideshow/DetailsActivity.java
+ com.example.greenhouse.ui.slideshow.DetailsActivity
+com/example/greenhouse/ui/home/HomeFragment.java
+ com.example.greenhouse.ui.home.HomeFragment
+ com.example.greenhouse.ui.home.HomeFragment$1
+com/example/greenhouse/ui/home/Api.java
+ com.example.greenhouse.ui.home.Api
+com/example/greenhouse/BuildConfig.java
+ com.example.greenhouse.BuildConfig
+com/example/greenhouse/ui/home/Details.java
+ com.example.greenhouse.ui.home.Details
+com/example/greenhouse/ui/gallery/Chart.java
+ com.example.greenhouse.ui.gallery.Chart
+com/example/greenhouse/ui/mushroom/MushroomFragment.java
+ com.example.greenhouse.ui.mushroom.MushroomFragment
+ com.example.greenhouse.ui.mushroom.MushroomFragment$1
+com/example/greenhouse/MainActivity.java
+ com.example.greenhouse.MainActivity
+com/example/greenhouse/ui/gallery/ApiInterface.java
+ com.example.greenhouse.ui.gallery.ApiInterface
+com/example/greenhouse/ui/mushroom/ApiInterface.java
+ com.example.greenhouse.ui.mushroom.ApiInterface
+com/example/greenhouse/ui/gallery/ApiClient.java
+ com.example.greenhouse.ui.gallery.ApiClient
+com/example/greenhouse/ui/slideshow/SlideshowViewModel.java
+ com.example.greenhouse.ui.slideshow.SlideshowViewModel

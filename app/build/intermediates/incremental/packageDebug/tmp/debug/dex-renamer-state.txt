@@ -1,0 +1,4 @@
+#Thu Oct 21 13:10:05 EDT 2021
+base.0=/Users/andrewchao/AndroidStudioProjects/Greenhouse/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
